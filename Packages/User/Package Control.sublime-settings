@@ -5,9 +5,16 @@
 	],
 	"installed_packages":
 	[
+		"A File Icon",
+		"AngularJS (CoffeeScript)",
+		"Better CoffeeScript",
+		"BracketHighlighter",
 		"Color Highlighter",
+		"GitGutter",
+		"Material Theme",
 		"Package Control",
-		"Predawn",
-		"Sass"
+		"Sass",
+		"SideBarEnhancements",
+		"Theme - Spacegray"
 	]
 }

@@ -1,7 +1,7 @@
 {
 	"enabled": true,
-  "style": "filled",
+  "style": "outlined",
   "icons": true,
-  "ha_style": "outlined",
+  "ha_style": "filled",
   "ha_icons": true,
 }

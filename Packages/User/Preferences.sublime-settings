@@ -1,7 +1,7 @@
 {
 	"always_show_minimap_viewport": true,
 	"bold_folder_labels": false,
-	"color_scheme": "Packages/Predawn/predawn.tmTheme",
+	"color_scheme": "Packages/Material Theme/schemes/Material-Theme.tmTheme",
 	"draw_minimap_border": true,
 	"folder_exclude_patterns":
 	[
@@ -14,6 +14,7 @@
 	"highlight_modified_tabs": true,
 	"ignored_packages":
 	[
+		"ColorPicker",
 		"Vintage"
 	],
 	"index_exclude_patterns":
@@ -21,11 +22,15 @@
 		"*.log",
 		"node_modules/"
 	],
+	"material_theme_accent_orange": true,
+	"material_theme_bullet_tree_indicator": true,
+	"material_theme_tabs_separator": true,
 	"rulers":
 	[
-		80
+		80,
 	],
 	"shift_tab_unindent": true,
 	"spell_check": true,
-	"tab_size": 2
+	"tab_size": 2,
+	"theme": "Material-Theme.sublime-theme"
 }
