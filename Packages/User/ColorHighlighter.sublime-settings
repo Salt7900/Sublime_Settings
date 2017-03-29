@@ -1,0 +1,7 @@
+{
+	"enabled": true,
+  "style": "filled",
+  "icons": true,
+  "ha_style": "outlined",
+  "ha_icons": true,
+}

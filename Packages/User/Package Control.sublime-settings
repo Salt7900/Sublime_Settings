@@ -5,7 +5,9 @@
 	],
 	"installed_packages":
 	[
+		"Color Highlighter",
 		"Package Control",
-		"Predawn"
+		"Predawn",
+		"Sass"
 	]
 }
